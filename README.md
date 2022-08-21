@@ -12,11 +12,17 @@ Atualmente estou cursando:
 
 Até então, as ferramentas e tecnologias com as quais me sinto mais confortável são:
 
-- HTML e CSS
-- Linux voltado para servidores
-- C
+- **HTML** e **CSS**
+- **Linux** voltado para servidores
+- **C**
 
-Também tenho familiaridades com bash, nginx e wordpress.
+Também tenho familiaridades com **bash**, **nginx** e **wordpress**.
+
+## Projetos
+
+Estes são alguns projetos simples que fizeram parte do meu aprendizado:
+
+- **[BxV](https://scratch.mit.edu/projects/704338674/)**, um joguinho feito em [Scratch](https://scratch.mit.edu)
 
 
 ## Entre em contato 📫
