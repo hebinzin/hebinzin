@@ -13,7 +13,7 @@ Atualmente estou cursando:
 Até então, as ferramentas e tecnologias com as quais me sinto mais confortável são:
 
 - **HTML** e **CSS**
-- **Linux** voltado para servidores
+- **Linux** para uso doméstico e corporativo
 - **C**
 
 Também tenho familiaridades com **bash**, **nginx** e **wordpress**.
