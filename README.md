@@ -20,7 +20,7 @@ Também tenho familiaridades com **bash**, **nginx** e **wordpress**.
 
 ## Projetos
 
-Estes são alguns projetos simples que fizeram parte do meu aprendizado:
+Aqui serão incluídos projetos que fizeram parte do meu aprendizado:
 
 - **[BxV](https://scratch.mit.edu/projects/704338674/)**, um joguinho feito em [Scratch](https://scratch.mit.edu)
 
@@ -29,6 +29,6 @@ Estes são alguns projetos simples que fizeram parte do meu aprendizado:
 
 Você pode falar comigo pelo <hdmj@outlook.com.br> ou me encontrar nas redes abaixo:
 
-- [Linkedin](linkedin.com/hdmj)
+- [Linkedin](https://linkedin.com/in/hdmj)
 - [Mastodon](https://mastodon.com.br/@hdmj)
 - [Instagram](https://instagram.com/hebinzin)
