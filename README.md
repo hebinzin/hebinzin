@@ -2,7 +2,7 @@
 
 Meu nome é Heber, aprendiz em Desenvolvimento de Software e Analista de Sistemas Trainee na [Amdocs](https://www.amdocs.com/) São Carlos (SP). Estou cursando o Técnico em Desenvolvimento de Sistemas no [Centro Paula Souza](https://www.cps.sp.gov.br/) e realizei o [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2022/), da Harvard University, em 2022.
 
-Antes de migrar para a área, me graduei em Imagem e Som pela [Universidade Federal de São Carlos](https://www.ufscar.br/), onde desenvolvi um enorme entusiasmo pelas tecnologias utilizadas na comunicação humana. Também sou fascinado pelos usos lúdicos, artísticos e sociais da computação.
+Antes de migrar para a área, me graduei em Imagem e Som pela [Universidade Federal de São Carlos](https://www.ufscar.br/), onde desenvolvi um grande entusiasmo pelas tecnologias usadas na comunicação humana. Também sou fascinado pelos usos lúdicos, artísticos e sociais da computação.
 
 
 ## Linguagens de programação
@@ -40,7 +40,7 @@ Alguns projetos que têm feito parte do meu aprendizado:
 
 ## Entre em contato 📫
 
-Além do github, você também pode me encontrar nas redes abaixo:
+Não sou muito ativo nas redes sociais, mas você também pode me encontrar nesses lugares:
 
 - [Linkedin](https://linkedin.com/in/hdmj)
 - [Instagram](https://instagram.com/hebinzin)
